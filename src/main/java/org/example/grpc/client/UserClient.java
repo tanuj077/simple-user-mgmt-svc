@@ -68,7 +68,7 @@ public class UserClient {
         // 3. Fetch user by id
         client.getUser("1");  // ID starts from 1 in your impl
 
-        client.getUser("10");  // ID starts from 1 in your impl
+        client.getUser("10");  // ID will throw error
         client.shutdown();
     }
 }
