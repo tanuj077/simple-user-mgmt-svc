@@ -79,7 +79,7 @@ SEVERE: Failed with status: NOT_FOUND - User not found with id 10
 
 ---
 
-## 🖼 Architecture (简)
+## 🖼 Architecture 
 
 ```text
 +-------------------+      gRPC (Protobuf)      +------------------+
